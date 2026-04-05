@@ -129,7 +129,6 @@ pip install -r requirements.txt
 .
 ├── Meet_notebook.ipynb     # Main implementation notebook
 ├── requirements.txt        # Python dependencies
-├── Phase2.pdf              # Project documentation
 ├── logs.txt                # Training logs
 ├── phase2-new.log          # Additional logs
 └── README.md               # This file
